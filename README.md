@@ -18,6 +18,7 @@ If you want to talk to me about any of these things (or even something different
 ![Twitter Follow](https://img.shields.io/twitter/follow/Noepi_?style=social)
 
 ✉️ [Contact](https://www.noemi-ashizuka.com/contact)
+
 <!--
 **noemi-ashizuka/noemi-ashizuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
