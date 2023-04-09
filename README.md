@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 ## My name is Noemi
-I'm a freelance web developer and teacher at Le Wagon. Check out my [website](https://www.noemi-ashizuka.com/).
+I'm a freelance web developer and teacher at Le Wagon. Check out my [website](https://www.noemi-calanducci.com/).
 I am always looking to learn more about coding. 
 - 🌱 I’m currently learning Vue
 - 🔭 I’m currently working on a cool React project
